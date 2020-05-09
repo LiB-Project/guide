@@ -11,7 +11,11 @@
 
 ## Passo a passo para execução
 
+Antes de tudo, clone todos os repositórios presentes em [LiB-Project](https://github.com/LiB-Project) para um mesmo diretório.
+
 ### - Instância do Elasticsearch
+
+Dentro do diretório ***share*** execute:
 
     docker-compose up
     
